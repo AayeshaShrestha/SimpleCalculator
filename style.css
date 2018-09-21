@@ -1,0 +1,21 @@
+.button{
+	width: 51;
+	height: 50;
+	font-size: 25;
+	margin: 3;
+	text-align: center;
+}
+
+.textview{
+	width: 220;
+	margin: 5;
+	font-size: 25;
+	padding: 5;
+}
+.button1{
+	width: 166;
+	height: 50;
+	font-size: 25;
+	margin: 3;
+	text-align: center;
+}
