@@ -1,2 +1,2 @@
 # SimpleCalculator
-Simple calculator application 
+Simple calculator application using javascript
